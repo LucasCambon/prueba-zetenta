@@ -381,6 +381,9 @@ footer {
         flex-direction: column; 
         text-align: center;
     }
+    .footer-column p {
+        font-size: 10px;
+    }
     /*.tarjeta{
         width: 90%;
         height: 310px;
